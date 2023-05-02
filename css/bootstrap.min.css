@@ -136,6 +136,8 @@ h2 {
 .h3,
 h3 {
   font-size: calc(1.3rem + 0.6vw);
+  text-transform: uppercase;
+  color: rgba(255, 232, 37, 255);
 }
 @media (min-width: 1200px) {
   .h3,
